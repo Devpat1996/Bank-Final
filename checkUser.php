@@ -81,7 +81,7 @@
             <div class="components">
             
                 <div class="logo">
-                    <a href=""><span>Bank</span>Rizzy</a>
+                    <a href=""><span>Bank</span>Deval</a>
                 </div>
                 
                 <ul class="navigation">
